@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Rolling Master</string>
+    <string name="dice_rolling_master">Dice Rolling Master</string>
+    <string name="player_1">You</string>
+    <string name="player_2">System</string>
+</resources>
